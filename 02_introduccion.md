@@ -8,8 +8,6 @@ decir que el blanco hace la letra y el negro la treta. La capoeira
 cuenta entre sus habilidades la de siempre escapar a los intentos de
 quienes pretenden atraparla en libros como este.
 
-![Ciatec](img/ciatec.jpg)
-
 Este no es -al menos no pretende serlo- un trabajo de interpretación;
 es más bien un vuelo de pájaro muy, muy alejado de la profundidad de
 las obras que consultamos. Surgió para llenar dos vacíos: un cancionero

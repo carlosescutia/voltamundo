@@ -1,7 +1,6 @@
 ---
 title: "Dá volta ao mundo, camará"
-author: Adolfo Flores (Cigano)
-date: 2000
+author: Adolfo Flores (Cigano) con la colaboración de Capoeira Longe do Mar
 toc: true
 lang: es-MX
 numbersections: false
@@ -11,6 +10,10 @@ header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \rfoot{pag \thepage}
+    \usepackage{titling}
+    \pretitle{\begin{center}
+    \includegraphics[width=2in,height=2in]{img/volta_mundo.png}\LARGE\\}
+    \posttitle{\end{center}}
 include-before:
 - '`\newpage{}`{=latex}'
 include-after:
