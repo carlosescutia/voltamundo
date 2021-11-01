@@ -47,13 +47,14 @@ Derechos reservados, de acuerdo al material original.
 ## Generación de formatos finales
 
 Se incluyen scripts de construcción para la generación de formatos finales epub y pdf.
-Para su funcionamiento, se requiere el software `pandoc`
+Para su funcionamiento, se requiere el software [pandoc][2]
 
 Uso:
 
-    `./build/pdf.sh`
+    ./build/pdf.sh
 
-    `./build/epub.sh`
+    ./build/epub.sh
 
 
 [1]: <https://es.wikipedia.org/wiki/Markdown> "Markdown"
+[2]: <https://pandoc.org/> "Pandoc"
