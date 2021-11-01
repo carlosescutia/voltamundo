@@ -50,8 +50,10 @@ Se incluyen scripts de construcción para la generación de formatos finales epu
 Para su funcionamiento, se requiere el software `pandoc`
 
 Uso:
-`./build/pdf.sh`
-`./build/epub.sh`
+
+    `./build/pdf.sh`
+
+    `./build/epub.sh`
+
 
 [1]: <https://es.wikipedia.org/wiki/Markdown> "Markdown"
-\newpage
