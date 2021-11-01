@@ -1,0 +1,24 @@
+---
+title: "Dá volta ao mundo, camará"
+author: Adolfo Flores (Cigano) 
+toc: true
+lang: es-MX
+numbersections: false
+geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
+output: epub_document
+header-includes: |
+    \usepackage{setspace}
+    \doublespacing
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \usepackage{titling}
+    \preauthor{\begin{center}\Large
+    \includegraphics[width=2in,height=2in]{img/volta_mundo.png}\\}
+	\postauthor{\\ \normalsize con la colaboración de Capoeira Longe do Mar \end{center}}
+include-before:
+- '`\newpage{}`{=latex}'
+include-after:
+- '`\newpage{}`{=latex}'
+---
+
+\newpage{}
