@@ -1,4 +1,4 @@
-![Roda de capoeira](img/img1.png)
+![Roda de capoeira](img/img01.png)
 \newpage
 
 # Introducción
