@@ -28,11 +28,11 @@ muy básicos llamado [Markdown][1]. La intención es contar con los archivos fue
 en formato de texto sencillo y fácil de leer y escribir con un editor de texto
 simple (como pueden ser el bloc de notas de windows, textmate, vim, etc) y evitar
 problemas de incompatibilidad de programas, sistemas operativos, plataformas, que
-terminan secuestrando la información. 
+terminan secuestrando la información.  
 Como toda elección, esta simpleza tiene un costo, el cual es que no se tienen
 opciones avanzadas de formateo, tales como múltiples columnas para el texto,
 posicionamiento exacto de las imágenes, flujo de texto alrededor de imágenes, entre
-otras.
+otras.  
 Las imagenes se encuentran en formato png, y fueron extraídas del material fuente.
 Es posible mejorarlas si se cuenta con versiones de mayor calidad.
 
