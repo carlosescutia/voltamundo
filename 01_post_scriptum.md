@@ -1,8 +1,8 @@
-# Post scriptum 2012.
+# Post scriptum 2012
 
 Recuerdo la génesis de Dá volta ao mundo, camará como uno de los proyectos más emocionantes y entrañables
 en los que me he visto envuelto. Desde 1999 algunos estudiantes nos pedían un cancionero y entre las personas
-que dábamos clases en Longe do Mar -grupo que iba prácticamente comenzando- decidimos que debería ir
+que dábamos clases en Longe do Mar --grupo que iba prácticamente comenzando-- decidimos que debería ir
 acompañado por un breve ensayo de introducción, nos dividimos la tarea y la fuimos comentando con el resto de
 nuestros compañeros-alumnos; de inmediato muchas personas ofrecieron su colaboración con sus distintos
 talentos. Por fortuna contábamos entre nuestras filas con 2 maravillosos artistas con experiencia no sólo en la
