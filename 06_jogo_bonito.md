@@ -285,6 +285,8 @@ En la mayoría de las academias un alumno no puede "comprar jogo" sacando de la
 roda a otro con una cuerda de mayor grado, una especie de "cromatocracia" bastante
 complicada teniendo en cuenta las enormes diferencias entre los sistemas.
 
+![](img/img25.png)
+
 
 ## Uniformes
 
@@ -302,6 +304,5 @@ la capoeira; los alumnos de Bimba, en cambio, mejor acomodados económicamente,
 no temían ninguna discriminación por entrenar o dar exhibiciones descalzos y con
 el pecho desnudo.
 
-![](img/img25.png)
 
 \newpage
