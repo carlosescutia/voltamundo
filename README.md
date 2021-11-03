@@ -21,6 +21,11 @@ Desafortunadamente, el documento existente es material fotocopiado del libro ori
 Para contar con material más legible, se desarrolló este proyecto.
 
 
+## Licencia
+
+Derechos reservados, de acuerdo al material original.
+
+
 ## Formatos elegidos
 
 El proyecto está capturado en archivos de texto simples con opciones de formato
@@ -38,10 +43,15 @@ otras.
 Las imagenes se encuentran en formato png, y fueron extraídas del material fuente.
 Es posible mejorarlas si se cuenta con versiones de mayor calidad.
 
-
-## Licencia
-
-Derechos reservados, de acuerdo al material original.
+Los formatos finales son pdf y epub. La elección de estos formatos se deben, a
+que en el caso del [pdf][3], mantiene el aspecto exacto del documento, y se puede
+abrir fácilmente en cualquier plataforma, incluso en un navegador de internet,
+facilitando tanto su lectura en una computadora como su impresión.
+El formato [epub][4] es más adecuado para su lectura en un dispositivo móvil,
+como puede ser un teléfono, una tablet, y mejor aún, un lector de libros electrónicos,
+tales como el Kindle. Este formato permite ajustar el tamaño de letra, el espaciado
+entre líneas, márgenes, cambios que ajustarán el texto en pantalla, a diferencia
+del formato pdf, cuyo formato se mantiene estático.
 
 
 ## Generación de formatos finales
@@ -58,3 +68,5 @@ Uso:
 
 [1]: <https://es.wikipedia.org/wiki/Markdown> "Markdown"
 [2]: <https://pandoc.org/> "Pandoc"
+[3]: <https://es.wikipedia.org/wiki/PDF>
+[4]: <https://es.wikipedia.org/wiki/EPUB>
