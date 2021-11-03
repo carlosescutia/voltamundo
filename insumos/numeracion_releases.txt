@@ -1,0 +1,50 @@
+# Numeración de releases
+
+## Formato
+
+v1.0.0
+
+v1.0.0 - Cuando se complete todo el libro por primera vez
+
+vx.1.x - Cuando se agregue nueva sección completa
+
+vx.x.1 - Corrección  menor a secciones existentes
+
+
+Secciones con que se cuenta:
+ - Portada					0.1.0
+ - Post scriptum 2012				0.2.0
+ - Licencia					0.3.0
+ - Indice					0.4.0
+ - Introduccion					0.5.0
+ - ¿Roza, jaula o pájaro? El término		0.6.0
+ - Historia					0.7.0
+ - Capoeira angola y regional			0.8.0
+ - Jogo bonito					0.9.0
+ - Canciones (parcial)				0.10.0
+ 
+Secciones inexistentes
+ - Glosario
+ - Guía de pronunciación
+ - Bibliografía
+ - Direcciones
+ 
+Elementos extra
+ - Readme						x.+1.x
+ - Configuración para generación de formato pdf		x.+1.x
+   - formato_pdf.yaml
+   - build/pdf.sh
+ - Configuración para generación de formato epub	x.+1.x
+   - formato_epub.yaml
+   - build/epub.sh
+
+
+Ultimo commit
+ - Secciones: Se inicia sección 04_historia
+   > última sección completa: Roza.. = 0.6.0
+ - Extras: Edición de Readme
+   > readme +1, configuracion pdf +1
+   
+version actual: 0.8.0   
+git tag -a v0.8.0 -m "Sección Roza, jaula o pájaro completa"
+git push --tags gitlab
