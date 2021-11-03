@@ -14,4 +14,4 @@ pandoc \
     06_jogo_bonito.md \
     07_canciones.md \
     --pdf-engine=xelatex \
-    -o voltamundo.pdf
+    -o release/voltamundo_`date +%d%b%y`.pdf
