@@ -159,4 +159,204 @@ volta ao mundo".
 
 ## Besouro
 
+*O (ilegible)  
+Besouro Macangá  
+Bateu foi na sargento  
+Da Policia Militar*
+
+Besouro Macangá fue quizá el último de los capoeiristas de leyenda. Su verdadero
+nombre era Manuel Henrique, originario de Santo Amaro de Purificação, en Bahía.
+Se decía que tenía el "corpo fechado" es decir protegido contra las balas por
+un rito de candomblé; además de tener la facultad de desaparecer inexplicablemente,
+quizá convertido en un escarabajo volador, como Mackandal el héroe negro de Haití.
+Sus hazañas recuerdan las de los orixás, o las descritas por Leo Frobenius en el
+"Decamerón Negro". Se dice que su último patrón, cansado de sus correrías y 
+aprovechando que no sabía leer lo mandó al Ingenio Maracangalha con una nota para
+el dueño pidiendo se diese muerte al portador de la misma. Sabiendo de su
+extraordinaria protección, éste lo invitó a pasar la noche en un burdel, pues se
+suponía que el contacto con mujeres debilitaba el hechizo: al día siguiente fue
+cercado por varios pistoleros que no hubieran podido con él de no haber usado una
+"faca de tucum", contra la que nada podía su "corpo fechado". Desde entonces pasó
+a vivir en la memoria de todos los capoeiristas que cantan sus hazañas.
+
+
+## Bimba
+
+*Manoel Dos Reis Machado  
+Ele é fenomenal  
+Ele é o Mestre Bimba  
+Creador do Regional.*
+
+Manoel Dos Reis Machado nació el 23 de noviembre de 1900 en Salvador, Bahía. Su
+madre, segura de que daría luz a una niña, apostó el privilegio de ponerle nombre
+con la partera, quien decidió apodarlo con la forma popular de llamar al pene de
+los niños en Bahía: Bimba, nombre con el que se haría famoso.
+
+![](img/img05.png)
+
+Su padre era un destacado practicante de "Batuque", pero la capoeira la aprendió
+de los 13 a los 27 años, mientras trabajó como estibador en el puerto, con un
+capitán de la Companhía de Navegação Bahiana llamado Bentinho.
+
+Hacia 1930, "angoleiro respetado", abrió una academia de lo que llamó "Lucha
+Regional Bahiana", pues para él la capoeira había nacido precisamente en Bahía;
+a la vez, el nombre de la escuela lo alejaba de los prejuicios contra la capoeira.
+En ella enseñaba una síntesis del "jogo de angola" --que a su parecer "dejaba mucho
+que desear" pues "sólo mostraba danzas y acrobacias"-- con algunos movimientos de
+"batuque", "maculelé" y otros de su invención, poniendo énfasis en la eficiencia
+para el combate "para o fraco se defender do forte" sin abandonar por completo el
+rito de la capoeira tradicional, es decir la roda y la música.
+
+Mestre Bimba fue el primero en sistematizar la enseñanza de la capoeira, que hasta
+entonces era transmitida de un "iniciado" a un "iniciante", o por imitación en las
+rodas públicas. Por contar con un breve espacio de tiempo para enseñar a un gran
+número de personas, organizó lo que para él era más importante en una serie de ocho
+secuencias de ataques y defensas. Incorporó algunos movimientos con agarres, la
+"cintura desprezada", que hasta entonces no existían en la capoeira.
+
+También estableció el primer sistema de graduación; tras los primeros seis meses de
+entrenamiento (tres clases semanales de una hora) organizaba una ceremonia llamada
+"formatura" en la que entregaba a los alumnos un pañuelo de seda blanco (antecedente
+de las actuales "cordas") por la creencia de que las navajas, que antiguamente
+salían a relucir a la menor provocación, no cortaban la seda. Los pañuelos eran una
+forma de decirle a sus alumnos que los consideraba aptos para enfrentar cualquier
+circunstancia en la roda. Tras el blanco de "formado" venían el rojo de 
+"especializado" y azul de "contramestre". Es importante mencionar que estos eran
+usados sólo el día de la ceremonia.
+
+![Mestre Bimba con sus alumnos](img/img06.png)
+
+En su academia sólo aceptaba a gente que demostrara tener un trabajo o estar
+estudiando, con lo cual excluía a la mayor parte de la población negra; tenía en
+cambio por alumnos a los hijos de los sectores mejor acomodados de la sociedad,
+que hasta entonces sólo habían visto en la capoeira una "enfermedad moral" "terror
+de la población pacífica".
+
+Desde la aparición de la capoeira regional, se acusó a Bimba de introducir elementos
+ajenos a la cultura africana, de "emblanquecer" la capoeira, de alejarla del suelo
+para complacer a sus clientes acomodados, llegando incluso a negarle cualquier
+relación con la "legítima capoeira", "legado de Angola". Sin embargo, su estilo
+--que ofrecía un cierto grado de domesticación, que tranquilizaba a las autoridades,
+sin perder del todo los elementos folclóricos que tanto comenzaron a interesar a
+los órganos de turismo-- ganó rápidamente adeptos por todo el país. Sus innovaciones
+dieron efectivamente pie a la aparición de interpretaciones muy poco ortodoxas de la
+capoeira, pero también le ofrecieron la frescura y el aliento necesarios para
+convertirla en deporte nacional brasileño. Atractiva y fácil de entender, ha abierto
+las puertas a un gran número de personas que después de conocerla pueden incluso
+sentirse más identificadas con la postura de la capoeira angola.
+
+Tras una vida dedicada a la capoeira murió el 5 de febrero de 1974 en Goiânia, a
+donde se había mudado en busca de mejor fortuna.
+
+
+## Pastinha
+
+*Seu Pastinha falou para Bimba  
+E agora  
+Si você é Regional mestre Bimba  
+Eu sou Angola*
+
+Mestre Pastinha, un mulato delgado y de pequeña estatura, "marinero, poeta, pescador,
+músico, filósofo y capoeirista", hijo de un español y una africana, iniciado en la
+"mandinga de Angola" por un africano llamado Benedito, sería el símbolo de quienes
+no se identificaban con el ímpetu renovador de Mestre Bimba.
+
+![](img/img07.png)
+
+Nació el 5 de abril de 1889, en Salvador, un año después de la "abolición" de la
+esclavitud. Él mismo cuenta que aprendió la capoeira cuando un "Viejo Africano",
+apenado de ver que siempre lo golpeaba otro muchacho, lo llamó y le dijo: "Usted
+no puede con él, sabe, porque él es mayor y tiene más edad. El tiempo que pierde
+jugando raya, venga aquí a mi jacal, que le voy a enseñar algo muy valioso...".
+
+A los 12 años entró a la Escuela de Aprendices de la Marina, donde comenzó su larga
+carrera de Mestre de capoeira, enseñando primero a sus compañeros y más tarde a
+artesanos y estudiantes. A los 20 años, "cuando su arte no daba suficiente", vivía
+de pintar cuadros y de ocasionales trabajos como carpintero, jornalero e incluso de
+cuidador de una casa de juegos. Varios investigadores coinciden en señalar que el
+apelativo "de Angola" comenzó a ser usado en los años 30 para diferenciarla del
+estilo de Mestre Bimba. Sin embargo, los "angoleros" afirman que se debe a que el
+origen del juego está en el "N'golo", un supuesto "Baile de la Cebra" practicado en
+África, que marca el paso ritual de los adolescentes a la edad adulta, con una lucha
+en la que el vencedor puede escoger a la que será su mujer. El mismo Pastinha pudo
+comprobar en 1966, cuando viajó al I Festival de Artes Negras de Dakar, Senegal, que
+no quedaban rastros, en el caso de que hubiera realmente existido, de una Capoeira
+Africana.
+
+En 1941 "a petición de otros Mestres" como Aberré y Amorzinho, abrió el "Centro
+Esportivo de Capoeira Angola" en el Largo do Pelourinho, a unas cuantas calles de
+la Academia de Bimba, al que reconocía como un capoeirista "de grandes méritos",
+aunque consideraba sus innovaciones innecesarias, "no pasando de ser --la capoeira
+regional-- una modalidad mixta de lucha o defensa personal donde se encuentran
+golpes y contragolpes de todos los métodos de lucha conocidos".
+
+![Mestre Pastinha con sus alumnos](img/img08.png)
+
+La capoeira angola desdeña los alardes de fuerza y velocidad: su fundamento es la
+"malicia", un concepto complejo que tiene que ver con la habilidad para tornar a
+nuestro favor las peores situaciones.
+
+Tras treinta años de funcionamiento, en 1971, para una supuesta remodelación del
+predio, fue cerrada por las autoridades la academia de Mestre Pastinha, que ciego
+y sin condiciones para dar clases por su cuenta, obtuvo al año siguiente una pensión
+vitalicia --un salario mínimo-- otorgada por el gobierno de Bahía.
+
+En 1979, gracias al apoyo de amigos influyentes, como el escritor Jorge Amado, se
+reabrió la academia en la calle Gregório de Matos, donde las clases eran impartidas
+por los mestres João Pequeno y João Grande; se dice que Mestre Pastinha corregía a
+los nuevos alumnos "por el sonido de la caída en el tablado". Ese mismo año sufrió
+un derrame cerebral y al siguiente fué internado en el Asilo Don Pedro II, donde
+murió, el 14 de octubre de 1981.
+
+
+## Capoeira en México
+
+*Aprendí a capoeira  
+Angola e Regional  
+É depois vine pra México  
+Para poder ensinhar.*
+
+El primer profesor de capoeira instalado permanentemente en la Ciudad de México fue
+el argentino Mariano Andrade, que fue alumno de Yoshi Senna en la Universidad de
+Buenos Aires.
+
+Mariano comenzó a dar clases en 1992, con un taller auspiciado por la UNAM en el
+Antiguo Colegio de San Idelfonso. En el verano de ese año --era yo entonces un
+alumno iniciante-- realizamos un viaje por la peninsula de Baja California dando
+exhibiciones por donde íbamos pasando de camino a San Francisco, donde participamos
+en el First National Capoeira Encounter.
+
+En 1994, invitado por una compañía de danza, Mariano dio un taller en Punto en el
+Espacio, cuya culminación, el primer "Batizado" realizado en nuestro país, contó
+con la inesperada y afortunada presencia de Mestre Delei, quien se encontraba de
+camino a los Estados Unidos, donde formaría Capoeira Abolição, grupo que dirige
+actualmente.
+
+También en 1994 pasó por nuestro país Armando Pequeno, bailarín bahiano radicado en
+París, donde entrenaba capoeira con Mestre Beija-Flor. Armando Pequeno dio talleres
+de capoeira, organizados por la Coordinación Nacional de Danza, en Xalapa, Veracruz,
+y en la Ciudad de México.
+
+En 1995 se formó Ollin-Bao, un grupo formado por músicos y bailarines dedicado a la
+difusión de las expresiones africanas en América. Dirigido por Mariano Andrade en la
+parte musical, el grupo integró rodas de capoeira a su repertorio hasta su disolución
+en 1996.
+
+En 1997 se fundó Banda do Saci, grupo que hasta la fecha dirige Mariano Andrade y que
+desde diciembre de ese mismo año, tras la visita de Mestre Curió, practica sólo
+capoeira angola.
+
+En junio de 1998 algunas personas interesadas en practicar capoeira sin etiquetas,
+formamos Capoeira Longe do Mar. En agosto de ese año se formó en Xalapa el grupo
+Cativeiro, dirigido por instructor Japão.
+
+Durante 1999 se establecieron en la Ciudad de México los grupos Cumbé y Abolição,
+este último bajo la dirección de Mestre Valinho. En diciembre de ese mismo año se
+realizó el Primer Encuentro Nacional de Capoeira en la ciudad de Guadalajara,
+organizado por el grupo Terreiro do Brasil, dirigido por el Monitor Tequila. Contó
+con la asistencia de más de 60 personas de las ciudades de Ensenada, Guadalajara,
+León, Querétaro, Xalapa y el Distrito Federal; además, sabemos de la existencia de
+grupos en Mérida, Los Mochis, Puerto Escondido y San Cristóbal de las Casas.
+
+Actualmente se está organizando la Asociación Mexicana de Grupos de Capoeira.
 \newpage
