@@ -21,11 +21,6 @@ Desafortunadamente, el documento existente es material fotocopiado del libro ori
 Para contar con material más legible, se desarrolló este proyecto.
 
 
-## Licencia
-
-Derechos reservados, de acuerdo al material original.
-
-
 ## Formatos elegidos
 
 El proyecto está capturado en archivos de texto simples con opciones de formato
@@ -65,6 +60,10 @@ Uso:
 
     ./build/epub.sh
 
+
+## Licencia
+
+Derechos reservados, de acuerdo al material original.
 
 [1]: <https://es.wikipedia.org/wiki/Markdown> "Markdown"
 [2]: <https://pandoc.org/> "Pandoc"
